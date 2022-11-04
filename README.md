@@ -1,6 +1,6 @@
 # E7gzly
 
-E7gzly is the "structured programming" course project for FCIS ASU (spring 2022) 
+E7gzly is the "Structured Programming" course project for FCIS ASU (spring 2022) 
 
 "E7gzly" is a doctor appointment booking system made with C++  
 
