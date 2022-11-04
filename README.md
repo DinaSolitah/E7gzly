@@ -14,3 +14,8 @@ Version 1.1 Features:
 - Searching ,you the patient, by major for a doctor in the doctor database
 - Filtering the result search by the available time and making an appointment
 - Both doctors & patients can display & edit their made appointment
+
+
+
+
+
