@@ -1,9 +1,12 @@
 # E7gzly
 
 E7gzly is the "structured programming" course project for FCIS ASU (spring 2022) 
+
 "E7gzly" is a doctor appointment booking system made with C++  
 
+
 Version 1.1 Features:  
+
 - Making a profile as a doctor or patient (logging in - signing up - editting personal data - ...)
 - Adding ,as a doctor, your available time to be available for patients to make appointments at
 - Searching ,you the patient, by major for a doctor in the doctor database
