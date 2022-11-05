@@ -1,8 +1,5 @@
 # Find a Doctor
 
-This is the "Structured Programming" course project for FCIS ASU (spring 2022) 
-<br>
-<br>
 
 "Find a Doctor" is a doctor appointment booking system made with C++  
 
